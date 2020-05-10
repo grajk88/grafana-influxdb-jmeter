@@ -1,4 +1,4 @@
-# Integration of JMeter Results with Grafana for Live Perfomance Monitoring
+# Integration of JMeter Results with Grafana for Live Performance Monitoring
 
 ## Tools used:
 1. JMeter
