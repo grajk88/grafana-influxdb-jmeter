@@ -13,3 +13,10 @@
 
 ![github-large](https://github.com/grajk88/grafana-influxdb-jmeter/blob/master/SS.png)
 
+## License
+
+This project is licensed under the MIT License - see [here](https://mit-license.org/) for details
+
+## Author
+Giridhar Rajkumar
+
